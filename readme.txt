@@ -1,3 +1,3 @@
-git is a version contorl system.
+git is a distributed version contorl system.
 git is free.
 
